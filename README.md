@@ -4,4 +4,4 @@
 
 - If you want to learn more about me, feel free to visit [my website](https://maxdesalle.com).
 
-- If you want to reach out to me, please send me your phone number (or a link to a private note containing it) in DM either on Twitter or on Telegram (@maxdesalle), instead of directly messaging me the matter. I will get back to you on [Signal](https://signal.org) afterwards.
+- If you want to reach out to me, please send me your phone number (or a link to a private note containing it) in DM either on [Twitter](https://twitter.com/maxdesalle) or on [Telegram](https://t.me/maxdesalle), instead of directly messaging me the matter. I will get back to you on [Signal](https://signal.org) afterwards.
