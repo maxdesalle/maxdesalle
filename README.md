@@ -15,6 +15,8 @@ Here is a list of all the projects I have had the chance to code, whether for 19
 - [netwhat](https://github.com/maxdesalle/42/tree/main/netwhat): some notes on networking.
 - [ft_server](https://github.com/maxdesalle/42/tree/main/ft_server): a Docker container with Nginx, Wordpress, phpMyAdmin and MySQL already set up and ready to use.
 - [cub3D](https://github.com/maxdesalle/42/tree/main/cub3D): a game inspired by the 90's game, Wolfenstein 3D.
+- [libasm](https://github.com/maxdesalle/42/tree/main/libasm): 6 basic functions of the C language rewritten in x86 Assembly (Intel syntax).
+
 #### Personal projects
 - [wordX](https://github.com/maxdesalle/wordx): a very basic CLI-based randomized crossword puzzle generator using a bruteforce algorithm.
 
