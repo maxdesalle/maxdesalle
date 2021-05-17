@@ -21,4 +21,6 @@ Here is a list of all the projects I have had the chance to code, whether for 19
 - [wordX](https://github.com/maxdesalle/wordx): a very basic CLI-based randomized crossword puzzle generator using a bruteforce algorithm.
 
 ### Contact
-If you want to reach out to me, you can do so via [Twitter DM](https://twitter.com/messages/compose?recipient_id=1054417789879025664).
+If you are a student at 42, you can find me on slack with the following username: ```mdesalle```.
+
+If you aren't, feel free to contact me using [this](https://maxdesalle.com/contact/) page.
