@@ -19,7 +19,7 @@ Here is a list of all the projects I have had the chance to code, whether for 19
 
 #### Personal projects
 - [wordX](https://github.com/maxdesalle/wordx): a very basic CLI-based randomized crossword puzzle generator using a bruteforce algorithm.
-- [42-exams](https://github.com/maxdesalle/42-exams): A fully documented repository containing all the answers for the 42 exam questions with a focus on accessible and understandable code.
+- [42-exams](https://github.com/maxdesalle/42-exams): a fully documented repository focused on accessible code containing all the answers for 42 exam questions.
 
 ### Contact
 If you are a student at 42, you can find me on slack with the following username: ```mdesalle```.
