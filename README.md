@@ -16,9 +16,10 @@ Here is a list of all the projects I have had the chance to code, whether for 19
 - [ft_server](https://github.com/maxdesalle/42/tree/main/ft_server): a Docker container with Nginx, Wordpress, phpMyAdmin and MySQL already set up and ready to use.
 - [cub3D](https://github.com/maxdesalle/42/tree/main/cub3D): a game inspired by the 90's game, Wolfenstein 3D.
 - [libasm](https://github.com/maxdesalle/42/tree/main/libasm): 6 basic functions of the C language rewritten in x86 Assembly (Intel syntax).
+- [ft_services](https://github.com/maxdesalle/42/tree/main/ft_services): a Kubernetes cluster powering the following services in independent Docker containers: WordPress, phpMyAdmin, Nginx, MySQL, Grafana, InfluxDB and FTPS.
 
 #### Personal projects
-- [wordX](https://github.com/maxdesalle/wordx): a very basic CLI-based randomized crossword puzzle generator using a bruteforce algorithm.
+- [wordX](https://github.com/maxdesalle/wordx): a very basic CLI-based randomized crossword puzzle generator using a horribly ineffective bruteforce algorithm.
 - [42-exams](https://github.com/maxdesalle/42-exams): a fully documented repository focused on accessible code containing all the answers for 42 exam questions.
 
 ### Contact
