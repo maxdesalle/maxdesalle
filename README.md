@@ -2,8 +2,6 @@
 
 Thanks for checking out my GitHub profile page, here is more or less what you need to know about me.
 
-[![mdesalle's 42 stats](https://badge42.herokuapp.com/api/stats/mdesalle?privacyEmail=true)]
-
 ### What I'm doing
 - 🖥 I'm currently learning how to program at [19](https://www.s19.be/).
 - 💪 At the moment, I'm helping [Hifi Finance](https://hifi.finance) as a marketing strategist.
